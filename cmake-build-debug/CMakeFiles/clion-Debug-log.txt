@@ -1,5 +1,0 @@
-/home/huangfu/下载/clion-2023.1.1/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/huangfu/下载/clion-2023.1.1/bin/ninja/linux/x64/ninja -G Ninja -S /home/huangfu/common/test -B /home/huangfu/common/test/cmake-build-debug
-message : /home/huangfu/common/test/Reflection/A.cpp/home/huangfu/common/test/Reflection/ClassFactory.cpp/home/huangfu/common/test/Reflection/Obj.cpp/home/huangfu/common/test/Reflection/RegistUtils.cpp/home/huangfu/common/test/Reflection/main.cpp
--- Configuring done
--- Generating done
--- Build files have been written to: /home/huangfu/common/test/cmake-build-debug
